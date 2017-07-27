@@ -2,6 +2,8 @@
 
 This is an example of use case of textbox to extract keywords, places and people from a news article, so I can increase relevance, on any search that I perform and power visualizations.
 
+![Dashboard](plots/dashboard.png)
+
 ## Requirements
 
 * Textbox  (https://machinebox.io/docs/textbox) 
@@ -51,9 +53,7 @@ Pre-Processing with textbox allows to have more structured document.
 }
 ```
 
-
-
-# Power better search
+# Power a better search
 
 Now that we have more structure data we can for example query by `place`:
 
