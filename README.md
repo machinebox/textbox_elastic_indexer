@@ -38,9 +38,11 @@ $ unzip bbcsport-fulltext.zip
 $ go run indexer.go
 ```
 
-# Structure of the document
+# Structure of the document on Elastic Search
 
-Pre-Processing with textbox allows to have more structured document.
+The articles in raw are just a txt files, where the first line is the title, we are going to extract the `title` and use `textbox` to extract `keywords`, `places` and `people`.
+
+Pre-Processing with textbox allows to have more structured document as it follows.
 
 ```
 {
