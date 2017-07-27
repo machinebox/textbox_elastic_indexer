@@ -1,4 +1,4 @@
-# Textbox to increase relevance in your search
+# Textbox helps you to increase relevance in your search
 
 This is an example of use case of textbox to extract keywords, places and people from a news article, so I can increase relevance, on any search that I perform and power visualizations.
 
