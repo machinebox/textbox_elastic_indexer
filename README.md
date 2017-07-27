@@ -55,9 +55,9 @@ Pre-Processing with textbox allows to have more structured document as it follow
 }
 ```
 
-# Power a better search
+# Power up the search, getting more relevant results
 
-Now that we have more structure data we can for example query by `place`:
+Now that we have more structure data we can perform queries by `place`:
 
 ```
 GET news_textbox/_search
