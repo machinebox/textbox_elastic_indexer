@@ -2,6 +2,10 @@
 
 This is an example of use case of textbox to extract keywords, places and people from a news article, so I can increase relevance, on any search that I perform and power visualizations.
 
+Read this blog post, to see more background info: 
+https://blog.machinebox.io/increase-the-power-of-your-search-engine-with-textbox-bd5f773a1410
+
+
 ![Dashboard](plots/dashboard.png)
 
 ## Requirements
